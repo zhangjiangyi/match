@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1a5ba24c-d828-459f-89d5-34f891180171",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "huocairen-walk_36": {
+      "ver": "1.0.3",
+      "uuid": "1a54b8cb-4630-429f-8f88-30b01672e99d",
+      "rawTextureUuid": "1a5ba24c-d828-459f-89d5-34f891180171",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14.5,
+      "offsetY": 4,
+      "trimX": 28,
+      "trimY": 6,
+      "width": 102,
+      "height": 363,
+      "rawWidth": 187,
+      "rawHeight": 383,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
